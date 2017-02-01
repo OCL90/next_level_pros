@@ -116,6 +116,17 @@ body{
   .carousel-container {
     display: none;
   }
+  .start-footer-nav-menu{
+    padding: 0px;
+  }
+  .footer-nav-menu{
+    padding: 0px;
+  }
+  .footer-nav-menu li{
+    font-size: 9px;
+    padding-left: 0px !important;
+    padding-right: 3px !important;
+  }
 }
 .welcome-next-level-pros h4{
   line-height: 28px;

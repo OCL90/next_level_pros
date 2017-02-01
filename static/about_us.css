@@ -1,0 +1,32 @@
+.mission-title h1, .about-us-title h1, .mission-statement p, .about-us-statement p, .leadership-title h1{
+  font-weight: 300;
+}
+.mission-statement p, .about-us-statement p{
+  font-size: 18px;
+}
+.leadership-title{
+  background-color: #F5F7FA;
+}
+.leadership-title h1{
+  margin-bottom: 20px;
+}
+.bio{
+  margin: 20px 0px;
+  -webkit-font-smoothing: antialiased;
+}
+.bio img{
+  height: 300px;
+  width: 250px;
+}
+.bio p{
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 15px;
+  margin-bottom: 0px;
+}
+.bio p:nth-child(3n){
+  margin-bottom: 10px;
+}
+.bio span{
+  font-size: 12px;
+}
